@@ -8,7 +8,7 @@ Project is created with:
 * JDK 18.0.1.1
 
 ## Setup
-To run this project, locate the `src/main/java/com/example/demo/DemoApplication.java` class and run it with IntelliJ.
+To run this project, locate the [DemoApplication.java](https://github.com/tiagocbarbosa/demo-springboot/blob/main/src/main/java/com/example/demo/DemoApplication.java) class and run it with IntelliJ.
 
 Then open your browser and in the address bar at the top enter http://localhost:8080/hello. Try to add `?name=Amy` to the end of the URL and check what happen.
 
